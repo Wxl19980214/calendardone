@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "modify_document_business_records_office_note_pencil_paper_edit_notes-512.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
